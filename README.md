@@ -25,7 +25,8 @@ Em seu computador, Você pode abrir o projeto `scripts_exemplos.Rproj`, em segui
 
 Nome   | Descrição
 :----: | ----------
-[funcao_pi]("R/funcao_pi") | Uma função para estimar a constante matemática <img src="https://latex.codecogs.com/gif.latex?\pi" title="\pi" />, por meio de pontos aleatórios que estão dentro de um círculo unitário centrado na origem, inscrito num quadrado de lado 2. A razão entre o número de pontos dentro desse círculo pelo total de pontos no quadrado é a estimativa que estamos procurando.
+[grafico_apresentacao]("R/grafico_apresentacao.R") | Esse *script* mostra  
+[funcao_pi]("R/funcao_pi.R") | Uma função para estimar a constante matemática <img src="https://latex.codecogs.com/gif.latex?\pi" title="\pi" />, por meio de pontos aleatórios que estão dentro de um círculo unitário centrado na origem, inscrito num quadrado de lado 2. A razão entre o número de pontos dentro desse círculo pelo total de pontos no quadrado é a estimativa que estamos procurando.
 
 - uma função para estimativa de "pi" <img src="https://latex.codecogs.com/gif.latex?\pi" title="\pi" />;
 - gráfico usando o ggplot2 para construir os pontos, círculo e quadrado do exemplo sobre o "pi";
