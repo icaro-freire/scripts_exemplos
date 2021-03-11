@@ -6,7 +6,7 @@
         alt   = "scripts_exemplos" 
    >
   <h2 align = "center">
-      Exemplos de *scripts*
+      Exemplos de scripts
   </h2>
 </p>
 
