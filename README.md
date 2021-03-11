@@ -1,4 +1,14 @@
-# Exemplos de *scripts*
+<p align = "center">
+   <img 
+        width = "200px"
+        align = "center"
+        src   = "/img/matrix.png"
+        alt   = "scripts_exemplos" 
+   >
+  <h2 align = "center">
+      Exemplos de *scripts*
+  </h2>
+</p>
 
 > Repositório para disponibilizar alguns scripts, em R, da disciplina [Estat_2020.1](https://github.com/icaro-freire/estat_2020.1).
 
