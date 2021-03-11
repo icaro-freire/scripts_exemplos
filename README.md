@@ -27,6 +27,6 @@ Nome   | Descrição
 :----: | ----------
 [funcao_pi]("R/funcao_pi") | Uma função para estimar a constante matemática <img src="https://latex.codecogs.com/gif.latex?\pi" title="\pi" />, por meio de pontos aleatórios que estão dentro de um círculo unitário centrado na origem, inscrito num quadrado de lado 2. A razão entre o número de pontos dentro desse círculo pelo total de pontos no quadrado é a estimativa que estamos procurando.
 
-- uma função para estimativa de "pi";
+- uma função para estimativa de "pi" <img src="https://latex.codecogs.com/gif.latex?\pi" title="\pi" />;
 - gráfico usando o ggplot2 para construir os pontos, círculo e quadrado do exemplo sobre o "pi";
 - gráfico da análise do *dataset* **mpg**.
