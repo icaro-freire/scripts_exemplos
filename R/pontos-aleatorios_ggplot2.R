@@ -29,4 +29,7 @@ grafico_pontos(1000)
 
 grafico_pontos(5000)
 
-# Obs.: Quanto mais pontos você coloca, mais tempo vai precisar para produção.
+# Obs.: i) Quanto mais pontos você coloca, mais tempo vai precisar para produção 
+#         do gráfico.
+#      ii) A memória do seu computador pode não suportar e o `R` abortar o 
+#         processo. 
